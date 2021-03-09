@@ -2,4 +2,4 @@
 A automatically trading app
 
 ## Reference
-join.robinhood.com/weijinl2
+https:://join.robinhood.com/weijinl2
